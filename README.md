@@ -1,2 +1,2 @@
 # algorithm-code
-算法
+线性规划
